@@ -9,4 +9,4 @@ I am [Afshin T. Darian](https://darian.af/). When I meet new people, I introduce
 - ⚡ Fun fact, I no longer understand either the first human language or the first programming language I ever learned to read and write.
 - 📫 How to reach me: [darian.af](https://darian.af/)
 - `beep boop beep...`
-  <img src="https://github-readme-stats.vercel.app/api?username=afshin&show_icons=true&locale=en&theme=dark" alt="afshin" />
+<img src="https://github-readme-stats.vercel.app/api?username=afshin&show_icons=true&locale=en&theme=dark" alt="afshin" />
